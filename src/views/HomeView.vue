@@ -19,7 +19,7 @@
             @click="deleteTask(scope.row)"
             type="text"
             size="mini"
-            style="color: red"
+            style="color: white; background-color: #f44336"
             >Delete</el-button
           >
         </template>
@@ -59,3 +59,6 @@ export default defineComponent({
   },
 });
 </script>
+
+<style lang="scss" scoped>
+</style>
