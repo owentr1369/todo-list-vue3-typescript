@@ -1,6 +1,7 @@
 # todo-list-vue3-typescript
 
-<img width="959" alt="Screen Shot 2022-09-14 at 12 11 21" src="https://user-images.githubusercontent.com/97748602/190064841-1b3f1e97-e4d6-4f4b-9d39-d60027546a1e.png">
+<img width="821" alt="Screen Shot 2022-09-14 at 12 12 10" src="https://user-images.githubusercontent.com/97748602/190064926-6c8631ca-b693-4049-9256-a9f54d41b936.png">
+
 
 ## Project setup
 ```
