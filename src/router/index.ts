@@ -8,8 +8,8 @@ const routes: Array<RouteRecordRaw> = [
       import(/* webpackChunkName: "about" */ "../views/HomeView.vue"),
   },
   {
-    path: "/about",
-    name: "about",
+    path: "/add-task",
+    name: "AddTask",
     component: () =>
       import(/* webpackChunkName: "about" */ "../views/AddTask.vue"),
   },

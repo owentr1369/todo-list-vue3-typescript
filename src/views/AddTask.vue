@@ -10,7 +10,6 @@
         @keyup.enter="addTask()"
       >
       </el-input>
-
       <el-row>
         <el-button type="primary">Submit</el-button>
       </el-row>
